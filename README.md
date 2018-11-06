@@ -1,20 +1,20 @@
 # PixelGun3d_Hack
 Apk files for Pixel Gun 3d Hack, still working as of 6.11.18 (DMY)/ 11.6.18 (MDY)
 -------------------------------------------------------------------------------------------
-##This is a hack for the game Pixel Gun 3d. 
+## This is a hack for the game Pixel Gun 3d. 
 
-###**READ THE FULL GUIDE BEFORE USING THE HACK, YOU MAY LOSE DATA, GET BANNED, OR EXPIRIENCE OTHER PROBLEMS.
+### **READ THE FULL GUIDE BEFORE USING THE HACK, YOU MAY LOSE DATA, GET BANNED, OR EXPIRIENCE OTHER PROBLEMS.
 I AM NOT RESPONSIBLE FOR ANY OF YOUR ACTIONS AND FOR ANYTHING THESE ACTIONS MAY CAUSE.**
 
-###***THIS GUIDE IS STILL INCOMPLETE***
+### ***THIS GUIDE IS STILL INCOMPLETE***
 
-###**Disclaimer: I do not own any of the provided files, neither did I modify them. The only file in this repository not provided by external sources is "README.md". The purpose of this repositry is to make the files easily accessible to the general public and give a guide on how to  use them correctly. Links to the sources of the files are listed at the end of this document.**
+### **Disclaimer: I do not own any of the provided files, neither did I modify them. The only file in this repository not provided by external sources is "README.md". The purpose of this repositry is to make the files easily accessible to the general public and give a guide on how to  use them correctly. Links to the sources of the files are listed at the end of this document.**
 -------------------------------------------------------------------------------------------
-##Using the Hack:
+## Using the Hack:
 
-###**Disclaimer: You will lose any data from the Game, as you will need to uninstall it (explanation in guide below). The only data that will be kept is the data synced to your Google play account, if you have it connected to Pixel Gun 3D. To note is that a sync to Google Play will only store Guns, and in most cases levels. Use this hack at your own Risk. It is possible to also lose the data stored to google play.**
+### **Disclaimer: You will lose any data from the Game, as you will need to uninstall it (explanation in guide below). The only data that will be kept is the data synced to your Google play account, if you have it connected to Pixel Gun 3D. To note is that a sync to Google Play will only store Guns, and in most cases levels. Use this hack at your own Risk. It is possible to also lose the data stored to google play.**
 
-####Method 1: 
+#### Method 1: 
 Without Google Play
 
 This method will only give you free coins and gems.
@@ -54,7 +54,7 @@ This method will only give you free coins and gems.
 8. Uninstall "Pixel Gun 3D"
     Do NOT open the app after you renamed the folder, just uninstall it.
     
- 
+REST OF GUIDE MISSING 
 -------------------------------------------------------------------------------------------
 Links to original files: (I do not own any of these, neither did I modiy or make them in any way)
 http://www.mediafire.com/file/hmlaa7lyg9nhdam/PixelGun3D-Hack.apk
