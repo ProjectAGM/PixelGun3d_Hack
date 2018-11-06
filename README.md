@@ -1,6 +1,6 @@
 # PixelGun3d_Hack
-
 Apk files for Pixel Gun 3d Hack, still working as of 6.11.18 (DMY)/ 11.6.18 (MDY)
+
 -------------------------------------------------------------------------------------------
 ## This is a hack for the game Pixel Gun 3d. 
 
@@ -10,6 +10,7 @@ I AM NOT RESPONSIBLE FOR ANY OF YOUR ACTIONS AND FOR ANYTHING THESE ACTIONS MAY 
 ### ***THIS GUIDE IS STILL INCOMPLETE***
 
 ### **Disclaimer: I do not own any of the provided files, neither did I modify them. The only file in this repository not provided by external sources is "README.md". The purpose of this repositry is to make the files easily accessible to the general public and give a guide on how to  use them correctly. Links to the sources of the files are listed at the end of this document.**
+
 -------------------------------------------------------------------------------------------
 ## Using the Hack:
 
